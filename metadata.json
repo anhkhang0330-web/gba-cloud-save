@@ -1,0 +1,6 @@
+{
+  "name": "Pokemon GBA Player",
+  "description": "Chơi game Pokemon GBA với dpad ảo, hỗ trợ Lưu/Tải nhanh, Xuất/Nhập save, và phòng Trade & Battle trực tuyến gọn nhẹ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
